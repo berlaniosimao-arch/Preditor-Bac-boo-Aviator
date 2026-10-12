@@ -1,0 +1,6 @@
+{
+  "name": "Angola Predict AI",
+  "description": "Plataforma profissional de análise estatística e estimativas probabilísticas para Bac Bo e Aviator em Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
